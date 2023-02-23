@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
-- Live Site URL: 
+- Live Site URL: https://htmlpreview.github.io/?https://github.com/kileybelanga/QR-Code-Component/blob/main/qr-code-component-main/index.html
 
 ## My process
 I began by ostructuring my project layout with semantic tags. Once I had each element in the order I wanted it to appear I then went in with css and styled each element in a manner to best match the design files.
